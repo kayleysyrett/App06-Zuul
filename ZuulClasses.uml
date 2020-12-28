@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="551.0">Player</node>
+    <node x="0.0" y="0.0">Game</node>
+    <node x="0.0" y="235.0">Command</node>
+    <node x="0.0" y="404.0">CommandWord</node>
+    <node x="153.0" y="551.0">ConsoleColours</node>
+    <node x="294.0" y="235.0">CommandWords</node>
+    <node x="500.0" y="404.0">Main</node>
+    <node x="302.0" y="0.0">Room</node>
+    <node x="386.0" y="551.0">Map</node>
+    <node x="264.0" y="404.0">Parser</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.9570747217806042" x="324.5" y="304.5" />
+  <SelectedNodes>
+    <node>CommandWord</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
